@@ -1,2 +1,2 @@
 # React-Portfolio
-Personal portfolio built in react
+#This is my Personal portfolio built in react. Thank you 
